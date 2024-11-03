@@ -1,0 +1,15 @@
+[submodule "Source/ThirdParty/fmt"]
+	path = Source/ThirdParty/fmt
+	url = https://github.com/fmtlib/fmt/tree/10.x
+[submodule "Source/ThirdParty/SDL2"]
+	path = Source/ThirdParty/SDL2
+	url = https://github.com/libsdl-org/SDL/tree/SDL2
+[submodule "Source/ThirdParty/DiligentCore"]
+	path = Source/ThirdParty/DiligentCore
+	url = https://github.com/DiligentGraphics/DiligentCore
+[submodule "Source/ThirdParty/DiligentTools"]
+	path = Source/ThirdParty/DiligentTools
+	url = https://github.com/DiligentGraphics/DiligentTools
+[submodule "Source/ThirdParty/DiligentFX"]
+	path = Source/ThirdParty/DiligentFX
+	url = https://github.com/DiligentGraphics/DiligentFX
